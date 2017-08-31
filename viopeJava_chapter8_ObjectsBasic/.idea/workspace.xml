@@ -1,18 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7fd7a524-b3e2-45b9-baaf-b1ab820e4a75" name="Default" comment="objects updated">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Applicant.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectsApplicantProgram.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectsPizzaArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ObjectsWordPairArray.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/viopeJava_chapter8/Pizza.class" afterPath="$PROJECT_DIR$/out/production/viopeJava_chapter8/Pizza.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/viopeJava_chapter8/WordPair.class" afterPath="$PROJECT_DIR$/out/production/viopeJava_chapter8/WordPair.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../viopeJava_chapter7/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../viopeJava_chapter7/.idea/workspace.xml" />
+    <list default="true" id="7fd7a524-b3e2-45b9-baaf-b1ab820e4a75" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Pizza.java" afterPath="$PROJECT_DIR$/src/Pizza.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/WordPair.java" afterPath="$PROJECT_DIR$/src/WordPair.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -78,8 +68,8 @@
       <file leaf-file-name="Applicant.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Applicant.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="350">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
               <folding>
                 <element signature="e#214#215#0" expanded="true" />
                 <element signature="e#241#242#0" expanded="true" />
@@ -404,16 +394,23 @@
       <workItem from="1503653171798" duration="5000" />
       <workItem from="1503653203577" duration="806000" />
       <workItem from="1504171979072" duration="14000" />
-      <workItem from="1504172107567" duration="3890000" />
+      <workItem from="1504172107567" duration="4052000" />
     </task>
+    <task id="LOCAL-00001" summary="objects updated">
+      <created>1504216092663</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1504216092663</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8246000" />
+    <option name="totallyTimeSpent" value="8408000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -700,8 +697,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Applicant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="350">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
           <folding>
             <element signature="e#214#215#0" expanded="true" />
             <element signature="e#241#242#0" expanded="true" />
