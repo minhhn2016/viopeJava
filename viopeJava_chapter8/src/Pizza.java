@@ -18,7 +18,7 @@ public class Pizza {
     }
 
     public String toString() {
-        DecimalFormat twoDecimals = new DecimalFormat("0,00");
+        DecimalFormat twoDecimals = new DecimalFormat("0.00");
         return name + " (" + (twoDecimals.format(price)).replace('.', ',') + " euros)";
     }
 }

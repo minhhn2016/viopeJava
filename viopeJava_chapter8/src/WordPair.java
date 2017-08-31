@@ -6,11 +6,16 @@ public class WordPair {
         this.englishWord = englishWord;
         this.finnishWord = finnishWord;
     }
+
     public String getEnglishWord() {
         return englishWord;
     }
 
     public String getFinnishWord() {
         return finnishWord;
+    }
+
+    public String wordPairToString() {
+        return englishWord + " = " + finnishWord;
     }
 }
